@@ -38,8 +38,7 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
-    "//技术笔记/技术笔记/服务器代码阅读"
+    "/"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
