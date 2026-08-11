@@ -9,5 +9,6 @@
   "templater-obsidian",
   "obsidian-linter",
   "editing-toolbar",
-  "make-md"
+  "make-md",
+  "notebook-navigator"
 ]

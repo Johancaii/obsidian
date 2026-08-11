@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "82420bc32e7ec58f",
+        "id": "bd58f9ac40b4c33d",
         "type": "tabs",
         "children": [
           {
-            "id": "bb49bda13a4c54ff",
+            "id": "17e8df642046dd2f",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "database.base",
-                "viewName": "表格"
+                "file": "技术笔记/阅读/程序员修炼之道.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "database"
+              "icon": "lucide-file",
+              "title": "程序员修炼之道"
             }
           }
         ]
@@ -74,7 +75,7 @@
             }
           },
           {
-            "id": "e8c04256196fe484",
+            "id": "fca60027696fa056",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -82,13 +83,23 @@
               "icon": "layout-grid",
               "title": "Navigator"
             }
+          },
+          {
+            "id": "a5aa5c057b29d4d0",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "笔记本导航器"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 276.5
   },
   "right": {
     "id": "47a72d83c9e4314e",
@@ -104,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "database.base",
+                "file": "技术笔记/Go/go语言基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "database 的反向链接列表"
+              "title": "go语言基础 的反向链接列表"
             }
           },
           {
@@ -152,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "database.base",
+                "file": "技术笔记/C++/CMake/cmake 教程.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "database 的大纲"
+              "title": "cmake 教程 的大纲"
             }
           },
           {
@@ -167,79 +178,81 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 259.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
       "remotely-save:Remotely Save": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "templater-obsidian:Templater": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "notebook-navigator:笔记本导航器": false
     }
   },
-  "active": "e8c04256196fe484",
+  "active": "17e8df642046dd2f",
   "lastOpenFiles": [
+    "技术笔记/阅读/EffectiveC++.md",
     "技术笔记/技术笔记.md",
-    "appendix/appendix.md",
     "database.base",
-    "obsidian.md",
-    "技术笔记/服务器代码阅读/路由.md",
-    "技术笔记/服务器代码阅读/活动框架.md",
-    "技术笔记/服务器代码阅读/服务器架构.md",
+    "未命名.base",
+    "技术笔记/C++/CMake/CMake代码说明.md",
+    "技术笔记/C++/CMake/cmake 教程.md",
     "Tags",
-    "README.md",
-    "技术笔记/C++/boost_asio/7_boost和C++20协程对比.md",
-    "技术笔记/C++/boost_asio",
-    "技术笔记/C++",
-    "技术笔记",
-    "appendix/Pasted image 20250711233740.png",
-    "appendix/Pasted image 20240806003344.png",
-    "appendix",
-    "技术笔记/秋招/项目/C++全栈聊天项目/3. qss样式设置.md",
-    "技术笔记/秋招/项目/C++全栈聊天项目/1.登录界面.md",
-    "技术笔记/秋招/项目/C++全栈聊天项目/2.内存泄漏问题.md",
-    "技术笔记/秋招/项目/压测工具.md",
-    "技术笔记/秋招/项目/C++全栈聊天项目",
-    "技术笔记/秋招/面经/腾讯金融科技.md",
-    "技术笔记/秋招/面经/联想.md",
-    "技术笔记/秋招/面经/字节抖音电商一面.md",
-    "技术笔记/秋招/面经/企业IT服务中心总监面.md",
-    "技术笔记/秋招/算法/力扣.md",
-    "技术笔记/秋招/算法/python刷题笔记.md",
-    "技术笔记/秋招/八股/面经答案整理.pdf",
+    "技术笔记/k8s/operator-development-guide.md",
+    "技术笔记/Go/Go.md",
+    "appendix/appendix.md",
+    "未命名 1.base",
+    "未命名 4.base",
+    "未命名 3.base",
+    "未命名 2.base",
+    "技术笔记/Go/go语言基础.md",
+    "技术笔记/C++/vscode配置/VSCode 配置clangd.md",
+    "技术笔记/k8s/gitops 本地环境搭建与实践.md",
+    "技术笔记/k8s/ArgoCD-Helm-K8s-知识整理.md",
+    "技术笔记/pdf/Kubernetes 架构与生态.pdf",
     "技术笔记/秋招/八股/Redis.pdf",
-    "技术笔记/秋招/项目",
-    "技术笔记/秋招/投递记录.md",
-    "技术笔记/工具/kitty使用笔记.md",
+    "技术笔记/UE/调研.md",
+    "技术笔记/UE/蓝图.md",
+    "技术笔记/UE/基础.md",
+    "技术笔记/AI/AI.md",
     "技术笔记/工具/git.md",
-    "技术笔记/实习记录/策略下发状态/sgopenapi框架逻辑梳理.md",
-    "技术笔记/实习记录/策略下发状态/sgopenapi 草稿.md",
-    "技术笔记/实习记录/策略下发状态/acl中队列的作用.md",
-    "技术笔记/实习记录/策略下发状态/5e-acl策略流程.md",
-    "技术笔记/实习记录/答辩/答辩大纲2.md",
-    "技术笔记/UE/Blaster项目文档/BlasterLearningCPPMarkDown/img/image.png",
-    "技术笔记/UE/Blaster项目文档/BlasterLearningCPPMarkDown/img/image-5.png",
-    "技术笔记/UE/Blaster项目文档/BlasterLearningCPPMarkDown/img/image-3.png",
-    "技术笔记/UE/Blaster项目文档/BlasterLearningCPPMarkDown/img/image-4.png",
-    "技术笔记/UE/Blaster项目文档/BlasterLearningCPPMarkDown/img/component.png",
-    "技术笔记/UE/Blaster项目文档/BlasterLearningCPPMarkDown/img/image-2.png",
-    "技术笔记/UE/Blaster项目文档/BlasterLearningCPPMarkDown/img/image-1.png",
+    "技术笔记/秋招/投递记录.md",
+    "技术笔记/分布式/分布式.md",
+    "技术笔记/中间件/中间件.md",
+    "技术笔记/UE/安装踩坑.md",
+    "技术笔记/秋招/面经/联想.md",
+    "技术笔记/秋招/算法/力扣.md",
+    "技术笔记/分布式/Raft.md",
+    "技术笔记/k8s/CICD.md",
+    "技术笔记/UE/一些基本概念.md",
+    "技术笔记/UE/demo项目.md",
+    "技术笔记/秋招/八股/面经答案整理.pdf",
     "appendix/企业微信截图_17542855844727.png",
+    "appendix/Pasted image 20250804134119.png",
+    "appendix/Pasted image 20250804134102.png",
+    "appendix/Pasted image 20250804133601.png",
+    "appendix/Pasted image 20250713154749.png",
+    "appendix/Pasted image 20250802230325.png",
+    "appendix/Pasted image 20250802230318.png",
+    "appendix/Pasted image 20250802230103.png",
+    "appendix/Pasted image 20250713153230.png",
+    "appendix/Pasted image 20250712180400.png",
     "未命名.canvas"
   ]
 }

@@ -38,7 +38,10 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "//技术笔记/技术笔记/C++",
+    "/",
+    "//技术笔记",
+    "//技术笔记/技术笔记/C++/技术笔记/C++/CMake"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -66,7 +69,7 @@
   "fmKeySticker": "sticker",
   "openSpacesOnLaunch": true,
   "indexSVG": false,
-  "readableLineWidth": true,
+  "readableLineWidth": false,
   "autoAddContextsToSubtags": true,
   "releaseNotesPrompt": 0.999,
   "enableDefaultSpaces": true,
