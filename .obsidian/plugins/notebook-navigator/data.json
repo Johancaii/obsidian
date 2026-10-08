@@ -65,7 +65,7 @@
     }
   ],
   "vaultProfile": "default",
-  "vaultTitle": "navigation",
+  "vaultTitle": "header",
   "syncModes": {
     "vaultProfile": "synced",
     "homepage": "synced",

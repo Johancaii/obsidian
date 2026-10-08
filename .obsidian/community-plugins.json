@@ -10,5 +10,6 @@
   "obsidian-linter",
   "editing-toolbar",
   "make-md",
-  "notebook-navigator"
+  "notebook-navigator",
+  "code-space"
 ]

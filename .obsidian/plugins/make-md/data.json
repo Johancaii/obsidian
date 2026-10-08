@@ -38,10 +38,9 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "//技术笔记/技术笔记/C++",
     "/",
-    "//技术笔记",
-    "//技术笔记/技术笔记/C++/技术笔记/C++/CMake"
+    "//技术笔记/技术笔记/C++/技术笔记/C++/CMake",
+    "//code"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

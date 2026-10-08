@@ -11,17 +11,48 @@
             "id": "17e8df642046dd2f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "技术笔记/阅读/程序员修炼之道.md",
-                "mode": "source",
-                "source": false
+                "path": "code"
               },
               "icon": "lucide-file",
-              "title": "程序员修炼之道"
+              "title": "code"
+            }
+          },
+          {
+            "id": "3e591cd1a23ae26d",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "code"
+              },
+              "icon": "lucide-file",
+              "title": "code"
+            }
+          },
+          {
+            "id": "33163698961ed97b",
+            "type": "leaf",
+            "state": {
+              "type": "code-space-dashboard",
+              "state": {},
+              "icon": "code-glyph",
+              "title": "Code Space"
+            }
+          },
+          {
+            "id": "ce34352f84782e32",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -75,16 +106,6 @@
             }
           },
           {
-            "id": "fca60027696fa056",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
-          },
-          {
             "id": "a5aa5c057b29d4d0",
             "type": "leaf",
             "state": {
@@ -92,6 +113,16 @@
               "state": {},
               "icon": "notebook-navigator",
               "title": "笔记本导航器"
+            }
+          },
+          {
+            "id": "1c17cfa4e3a7483d",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
         ],
@@ -202,31 +233,39 @@
       "remotely-save:Remotely Save": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false,
-      "notebook-navigator:笔记本导航器": false
+      "notebook-navigator:笔记本导航器": false,
+      "code-space:打开 Code Space 主面板": false
     }
   },
-  "active": "17e8df642046dd2f",
+  "active": "1c17cfa4e3a7483d",
   "lastOpenFiles": [
-    "技术笔记/阅读/EffectiveC++.md",
+    "code/code.md",
+    "test.py",
+    "test.cpp",
+    "code/test.py.md",
+    "code/test.py",
+    "code",
+    "code/test.py.md",
+    "appendix/appendix.md",
+    "code_test.md",
     "技术笔记/技术笔记.md",
-    "database.base",
-    "未命名.base",
+    "技术笔记/阅读/EffectiveC++.md",
     "技术笔记/C++/CMake/CMake代码说明.md",
     "技术笔记/C++/CMake/cmake 教程.md",
+    "技术笔记/protobuf 相关/PROTOBUF_PLUGIN_DEV_GUIDE.md",
+    "database.base",
+    "技术笔记/阅读/程序员修炼之道.md",
+    "未命名.base",
     "Tags",
     "技术笔记/k8s/operator-development-guide.md",
     "技术笔记/Go/Go.md",
-    "appendix/appendix.md",
     "未命名 1.base",
     "未命名 4.base",
     "未命名 3.base",
-    "未命名 2.base",
     "技术笔记/Go/go语言基础.md",
     "技术笔记/C++/vscode配置/VSCode 配置clangd.md",
     "技术笔记/k8s/gitops 本地环境搭建与实践.md",
     "技术笔记/k8s/ArgoCD-Helm-K8s-知识整理.md",
-    "技术笔记/pdf/Kubernetes 架构与生态.pdf",
-    "技术笔记/秋招/八股/Redis.pdf",
     "技术笔记/UE/调研.md",
     "技术笔记/UE/蓝图.md",
     "技术笔记/UE/基础.md",
@@ -235,14 +274,6 @@
     "技术笔记/秋招/投递记录.md",
     "技术笔记/分布式/分布式.md",
     "技术笔记/中间件/中间件.md",
-    "技术笔记/UE/安装踩坑.md",
-    "技术笔记/秋招/面经/联想.md",
-    "技术笔记/秋招/算法/力扣.md",
-    "技术笔记/分布式/Raft.md",
-    "技术笔记/k8s/CICD.md",
-    "技术笔记/UE/一些基本概念.md",
-    "技术笔记/UE/demo项目.md",
-    "技术笔记/秋招/八股/面经答案整理.pdf",
     "appendix/企业微信截图_17542855844727.png",
     "appendix/Pasted image 20250804134119.png",
     "appendix/Pasted image 20250804134102.png",
